@@ -14,7 +14,7 @@
             p Toda decisión de mercado viene derivada del análisis de información y de estudios previos aplicados en este. Para dar inicio al estudio de mercado se debe comprender el concepto de entorno, el cual está basado en todo lo que rodea a las empresas independiente del sector económico; a este lo componen diferentes variables externas que no pueden ser controladas por la empresa, pero que entregan información necesaria e importante para proyectar las estrategias y actividades a desarrollar.
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-1.png" data-aos="fade-left" style="max-width: 400px")
 
-    p.mb-5 Para comprender la manera en la que se debe manejar la información relacionada con el entorno de la empresa, a continuación, se describen las variables y la clasificación de este. Se debe tener en cuenta que cada variable que hace parte del entorno debe ser analizada de manera independiente y que se debe identificar la manera adecuada de abordarlas ya que como se nombra anteriormente no son controlables por la empresa.
+    p.mb-5 Para comprender la manera en la que se debe manejar la información relacionada con el entorno de la empresa, a continuación, se describen las variables y la clasificación de este. Se debe tener en cuenta que cada variable que hace parte del entorno debe ser analizada de manera independiente y que se debe identificar la manera adecuada de abordarlas, ya que como se nombra anteriormente no son controlables por la empresa.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2#t_1_1 1.1 Análisis del entorno 
@@ -100,13 +100,13 @@
             img.mx-auto(src='@/assets/curso/temas/tema1/decorador-9.svg', style="max-width:100px", alt='Texto que describa la imagen')
       .row(titulo="Los proveedores").p-4
         .col-md-6.mb-4.mb-md-0
-          p Los proveedores: se debe estudiar la calidad y cantidad de proveedores disponibles en el mercado que responda a las necesidades de la empresa, teniendo en cuenta política de pagos, tiempos de entrega y calidad de productos. 
+          p Se debe estudiar la calidad y cantidad de proveedores disponibles en el mercado que responda a las necesidades de la empresa, teniendo en cuenta política de pagos, tiempos de entrega y calidad de productos. 
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/decorador-10.svg', style="max-width:100px", alt='Texto que describa la imagen')
       .row(titulo="Canales de distribución").p-4
         .col-md-6.mb-4.mb-md-0
-          p Canales de distribución: debe ser estudiado desde la importancia de reconocer cuál es el canal acertado para llegar al consumidor final, teniendo en cuenta costos y tiempos de entrega. 
+          p Debe ser estudiado desde la importancia de reconocer cuál es el canal acertado para llegar al consumidor final, teniendo en cuenta costos y tiempos de entrega. 
         .col-md-6
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/decorador-11.svg', style="max-width:100px", alt='Texto que describa la imagen')
@@ -186,25 +186,25 @@
                 ul.lista-ul.mb-3
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Demografía.
+                    | Demografía
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Cambios en los estilos de vida.
+                    | Cambios en los estilos de vida
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Cultura y creencias.
+                    | Cultura y creencias
 
               .col-md-5.col-lg-6.col-12
                 ul.lista-ul.mb-3
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Nivel de educación y conciencia.
+                    | Nivel de educación y conciencia
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Movimientos sociales.
+                    | Movimientos sociales
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Salud y bienestar.
+                    | Salud y bienestar
 
           .col-md-5.px-3
             figure
@@ -225,7 +225,7 @@
                     | Avances tecnológicos
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Investigación y desarrollo.
+                    | Investigación y desarrollo
                   li(data-aos="fade-down")
                     i.fas.fa-circle
                     | Automatización
@@ -261,7 +261,7 @@
                     | Regulaciones ambientales 
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Sostenibilidad.
+                    | Sostenibilidad
 
               .col-md-5.col-lg-6.col-12
                 ul.lista-ul.mb-3
@@ -291,7 +291,7 @@
                     | Legislación laboral
                   li(data-aos="fade-down")
                     i.fas.fa-circle
-                    | Regulaciones comerciales.
+                    | Regulaciones comerciales
                   li(data-aos="fade-down")
                     i.fas.fa-circle
                     | Protección al consumidor
@@ -325,7 +325,7 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 El diagnóstico es el elemento más importante para dar inicio a la formulación del plan de mercado, este elemento permite conocer la situación inicial de la empresa luego de realizar el análisis del entorno a partir de las variables identificadas en el macro y microentorno, de esta manera, se puede anticipar la empresa en la identificación de oportunidades y amenazas existentes. 
 
-    p.mb-5 El diagnostico involucra el análisis de las variables internas y externas donde deberá hacerse un levantamiento de información que, por ejemplo involucre los siguientes aspectos: antecedentes del sector económico al cual se pertenece, como es la distribución de los huevos, cuáles son las instituciones que regulan las empresas del sector avícola como ICA e INVIMA, qué decretos están vigentes, qué reglamenta el Ministerio de agricultura y desarrollo rural, el comportamiento de la competencia, como se establece el precio del huevo, que factores influyen en su distribución como el estado de las vías, situaciones de orden público, entre otras. 
+    p.mb-5 El diagnostico involucra el análisis de las variables internas y externas donde deberá hacerse un levantamiento de información que, por ejemplo involucre los siguientes aspectos: antecedentes del sector económico al cual se pertenece, como es la distribución de los huevos, cuáles son las instituciones que regulan las empresas del sector avícola como ICA e INVIMA, qué decretos están vigentes, qué reglamenta el Ministerio de Agricultura y Desarrollo Rural, el comportamiento de la competencia, cómo se establece el precio del huevo, qué factores influyen en su distribución como el estado de las vías, situaciones de orden público, entre otras. 
 
     .col-xl-10.mx-auto.mb-5
       .tarjeta.color-primario.p-3.mb-5

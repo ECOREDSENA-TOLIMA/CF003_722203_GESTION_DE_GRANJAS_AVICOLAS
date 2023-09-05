@@ -75,7 +75,7 @@
         figure
           img(src='@/assets/curso/temas/tema5/img-4.png', alt='Texto que describa la imagen')
       .col-12.col-md-8
-        p Las acciones del plan de mejora son actividades enfocadas en mejorar la eficiencia de las estrategias consideradas fallidas en el informe de resultados. Deben aplicarse según una priorización que obedece a criterios específicos como la ventana de tiempo en las que pueden considerarse oportunas o el impacto que podrán tener sobre los resultados a obtener. Su proceso comprende una formulación inicial donde se definen las tareas y los responsables, seguido de una ejecución donde se ejecuta lo propuesto y finaliza con una evaluación que puede dar como resultado la finalización de la acción dado que se cumplió con su objetivo, la modificación si no se dieron los resultados esperados o la replicación si procede. 
+        p Las acciones del plan de mejora, son actividades enfocadas en mejorar la eficiencia de las estrategias consideradas fallidas en el informe de resultados. Deben aplicarse según una priorización que obedece a criterios específicos como la ventana de tiempo en las que pueden considerarse oportunas o el impacto que podrán tener sobre los resultados a obtener. Su proceso comprende una formulación inicial, donde se definen las tareas y los responsables, seguido de una ejecución donde se ejecuta lo propuesto y finaliza con una evaluación que puede dar como resultado, la finalización de la acción dado que se cumplió con su objetivo, la modificación si no se dieron los resultados esperados o la replicación si procede. 
         p A modo de ejemplo se plantea la siguiente situación: una campaña publicitaria centrada en redes sociales buscaba incrementar las ventas de presas de pollo de una granja avícola ubicada en un municipio intermedio. Sin embargo, el volumen de ventas no sufrió variaciones significativas que se pudieran asociar a la estrategia. La siguiente secuencia de pasos otorga una orientación sobre cómo llevar a cabo el proceso de las acciones de mejora frente a esta situación: 
 
     LineaTiempoB.color-primario.mt-5.mb-5(:datos="datosLineaTiempoB")(data-aos="fade-left").BGIMG03
@@ -88,9 +88,9 @@
     .row.mb-5 
       .col-7
         .caja.color-primario-b.p-4
-          p Cualquiera de los procesos ejecutados dentro de una empresa cuenta con tareas o momentos concretos que tienen mayor relevancia que los demás, puesto que las falencias que surjan allí tendrán un impacto mucho más fuerte sobre los resultados.  
+          p Cualquiera de los procesos ejecutados dentro de una empresa, cuenta con tareas o momentos concretos que tienen mayor relevancia que los demás, puesto que las falencias que surjan allí, tendrán un impacto mucho más fuerte sobre los resultados.  
           p Definir los puntos críticos de control demanda un conocimiento detallado de cada una de las etapas que componen el proceso, pero como contrapartida permitirá enfocar las acciones de mejora de tal manera que se maximicen los resultados esperados.  
-          p Cualquier proceso de análisis o revisión de una estrategia implantada sigue una priorización en la que los puntos críticos de control se ubicarán en primer lugar, y en segunda medida estarán las demás fases que los complementan. Su debido registro y documentación permitirá que las evaluaciones posteriores y la proposición de estrategias futuras se centren en robustecer estos elementos del proceso en concreto; una vez se consolide el punto crítico, pueden diseñarse acciones adicionales para favorecer las demás fases del proceso.
+          p Cualquier proceso de análisis o revisión de una estrategia implantada, sigue una priorización en la que los puntos críticos de control se ubicarán en primer lugar, y en segunda medida, estarán las demás fases que los complementan. Su debido registro y documentación permitirá que las evaluaciones posteriores y la proposición de estrategias futuras se centren en robustecer estos elementos del proceso en concreto; una vez se consolide el punto crítico, pueden diseñarse acciones adicionales para favorecer las demás fases del proceso.
           
       .col-5
         figure

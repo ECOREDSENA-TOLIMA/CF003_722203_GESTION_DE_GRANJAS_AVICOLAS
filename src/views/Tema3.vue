@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Plan Estratégico 
+      h1 Plan estratégico 
 
     .d-flex.flex-wrap.mb-5
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
@@ -35,11 +35,11 @@
           img(src='@/assets/curso/temas/tema3/img-2.png', alt='Texto que describa la imagen')
       .col-12.col-md-7.p-4(style="background-color: #ABFFFF")(data-aos="fade-left")
         p La toma de decisión de compra del cliente o consumidor viene influenciada por un deseo, un impulso o una necesidad, siendo esta última la más común al momento de influir en la decisión final. El mercadeo se encarga de investigar las motivaciones y necesidades de los clientes para traducir los deseos de estos y poder identificar qué es exactamente lo que buscan.   
-        p Teniendo en cuenta lo anterior no se puede seguir adelante sin hacer referencia a la pirámide de las necesidades de Abraham Maslow quien desde su primera aparición en 1943 hizo el esfuerzo para hacer entender que las necesidades del ser humano están jerarquizadas en distintos niveles en los cuales se va avanzando a medida que se suple el nivel anterior. De esta manera, el sector productivo concentra sus esfuerzos en las personas que logran cubrir las necesidades sociales, ya que son aquellos que por poder adquisitivo podrán tomar una decisión de compra o no.  
+        p Teniendo en cuenta lo anterior, no se puede seguir adelante sin hacer referencia a la pirámide de las necesidades de Abraham Maslow, quien desde su primera aparición en 1943 hizo el esfuerzo para hacer entender que las necesidades del ser humano están jerarquizadas en distintos niveles en los cuales se va avanzando a medida que se suple el nivel anterior. De esta manera, el sector productivo concentra sus esfuerzos en las personas que logran cubrir las necesidades sociales, ya que son aquellos que por poder adquisitivo podrán tomar una decisión de compra o no.  
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 3
+        h5 Figura 3.
         span <em>Pirámide de las necesidades Maslow</em>
       img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-3.svg" data-aos="fade-left")
       figcaption Nota. Tomado de https://economipedia.com/definiciones/piramide-de-maslow.html
@@ -66,11 +66,11 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-md-7.mb-4.mb-md-0
-        p Las variables que influencian la decisión del consumidor son vistas desde un punto de vista psicológico que ayuda al mercadeo a generar estrategias para que finalmente se genere el proceso de compra, por eso la referencia anterior de la pirámide de Maslow, sin embargo, estas no son las únicas variables que influyen porque existen otras que intervienen en el proceso, estas son:  
+        p Las variables que influencian la decisión del consumidor son vistas desde un punto de vista psicológico, que ayuda al mercadeo a generar estrategias para que finalmente se genere el proceso de compra, por eso la referencia anterior de la pirámide de Maslow, sin embargo, estas no son las únicas variables que influyen porque existen otras que intervienen en el proceso, estas son:  
         ul.lista-ul.mb-2(data-aos="fade-down")
           li.mb-0
             i.fas.fa-check
-            | <strong>El Entorno:</strong> influenciadas por las tradiciones familiares, los gustos de los grupos sociales (amigos, trabajo, estudio) que frecuenta la cultura a la cual pertenece y los líderes de opinión que siga según sus gustos.
+            | <strong>El entorno:</strong> influenciadas por las tradiciones familiares, los gustos de los grupos sociales (amigos, trabajo, estudio) que frecuenta la cultura a la cual pertenece y los líderes de opinión que siga según sus gustos.
           br
           li.mb-0
             i.fas.fa-check
@@ -94,7 +94,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 4
+        h5 Figura 4.
         span <em>Proceso decisión de compra </em>
       img.d-md-block(src="@/assets/curso/temas/tema3/img-6.svg" data-aos="fade-left")
 
@@ -155,7 +155,7 @@
     Separador 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 3.2 Plan de Mercado  
+      h2#t_1_1 3.2 Plan de mercado  
 
     .row
       .col-12.col-md-4.mb-3.mb-md-0
@@ -164,7 +164,7 @@
       .col-12.col-md-7.mt-4
         .cajon-b.color-acento-contenido.p-3.mb-5
           p.mb-0 Lo primero que se debe saber es que plan de mercado es un documento donde es necesario plasmar cuáles son los objetivos que persigue la empresa, las acciones o estrategias a implementar y el presupuesto para poder llevarlas a cabo. La utilidad de este plan es que la meta se establece desde el inicio de forma clara y debe ser alcanzable y las estrategias como el camino para lograrla. El plan es pensado para funcionar de forma anual; cada año nuevo trae consigo su nuevo plan. 
-          p El plan de mercado es vital en el funcionamiento de la empresa ya que conlleva consigo una medición de las actividades desarrolladas, la satisfacción del cliente y la planeación de actividades para responder a las necesidades actuales del mercado y la comunicación con clientes, consumidores y clientes futuros.  
+          p El plan de mercado es vital en el funcionamiento de la empresa, ya que conlleva consigo una medición de las actividades desarrolladas, la satisfacción del cliente y la planeación de actividades para responder a las necesidades actuales del mercado y la comunicación con clientes, consumidores y clientes futuros.  
 
     .col-xl-10.mx-auto.mb-5
       .tarjeta.color-primario.p-3.mb-5
@@ -183,7 +183,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 5
+        h5 Figura 5.
         span <em>Plan de mercadeo, objetivos e importancia.</em>
       img.d-md-block(src="@/assets/curso/temas/tema3/img-8.svg" data-aos="fade-left")
 
@@ -226,8 +226,8 @@
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0
-                        h3.mb-1 Marketing analítico y estratégico 
-                        p Para complementar sobre el marketing analítico y estratégico se le recomienda consultar el siguiente documento. 
+                        h3.mb-1 <em>Marketing</em> analítico y estratégico 
+                        p Para complementar sobre el <em>marketing</em> analítico y estratégico se le recomienda consultar el siguiente documento. 
 
                       .col-sm-auto
                         a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_ 2._Marketing_analitico_y_estratégico.pdf')" target="_blank")
@@ -249,14 +249,14 @@
                 br
                 li.mb-0
                   i.fas.fa-check
-                  | <strong>Comunicación:</strong> la empresa define los medios por los cuales comunicará la estrategia diseñada, debe tener claro según la estrategia diseñada cuál será la forma de llegar a sus clientes, estas pueden ser el mercadeo tradicional como pautas, promociones, patrocinios o mercadeo digital como marketing web, social media y mobile.
+                  | <strong>Comunicación:</strong> la empresa define los medios por los cuales comunicará la estrategia diseñada, debe tener claro según la estrategia diseñada cuál será la forma de llegar a sus clientes, estas pueden ser el mercadeo tradicional como pautas, promociones, patrocinios o mercadeo digital como <em>marketing web,</em> social media y mobile.
                 br
                 li.mb-5
                   i.fas.fa-check
                   | <strong>Puesta en marcha:</strong> se debe generar un cronograma de actividades según cada uno de los objetivos, el cronograma debe ser anual y deben tener fecha de inicio, de finalización y responsables, así mismo, es indispensable definir cada una de las estrategias planteadas, estas deben ser claras, medibles y relacionarse con cada objetivo a cumplir. Un ejemplo de la manera de cómo organizar el cronograma se muestra a continuación:
               
               .titulo-sexto.color-primario(data-aos="fade-right")
-                h5 Tabla 2
+                h5 Tabla 2.
                 span <em>Diseño cronograma de actividades</em>
               img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-9.svg" data-aos="fade-left")
               figcaption.mb-5 Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020).
@@ -264,7 +264,7 @@
               ul.lista-ul.mb-2(data-aos="fade-down")
                 li.mb-0
                   i.fas.fa-check
-                  | <strong>Presupuesto:</strong> todo lo que se planee en el cronograma de actividades deberá tener asignado un presupuesto, esto debe quedar establecido desde la planeación, de tal manera que si no se cuenta con los recursos la empresa pueda buscar fuentes de financiación antes de la puesta en marcha, si esto no se logra los procesos quedaran inconclusos y no se cumplirán los objetivos. La dirección y área de mercadeo deben ser muy cuidadosos a definir las actividades, las cuales son la recopilación de todo el trabajo hecho del marketing estratégico hacia atrás, pues cualquier detalle que quede por fuera es una representación monetaria que puede tener un impacto muy grande y negativo en la organización.  
+                  | <strong>Presupuesto:</strong> todo lo que se planee en el cronograma de actividades deberá tener asignado un presupuesto, esto debe quedar establecido desde la planeación, de tal manera que si no se cuenta con los recursos la empresa pueda buscar fuentes de financiación antes de la puesta en marcha, si esto no se logra los procesos quedarán inconclusos y no se cumplirán los objetivos. La dirección y área de mercadeo deben ser muy cuidadosos a definir las actividades, las cuales son la recopilación de todo el trabajo hecho del <em>marketing</em> estratégico hacia atrás, pues cualquier detalle que quede por fuera, es una representación monetaria que puede tener un impacto muy grande y negativo en la organización.  
 
     TabsB.color-primario.mb-5
       .py-4.py-md-5.px-5(titulo="<em>Marketing</em> operativo ")
@@ -305,7 +305,7 @@
           img(src="@/assets/curso/temas/tema3/img-10.png")
       .col-7
         .caja.color-primario-b.p-4.mb-5
-          p El plan de mercado debe tener un cronograma de actividades según lo establecen los pasos del marketing operativo, en él se define tiempo de inicio, finalización y responsables, de este modo, el mismo plan se convierte en la hoja de ruta para hacer la evaluación; algunos autores reconocen este proceso como auditoria de marketing. Esta auditoria permite hacer una evaluación amplia y sistemática de los objetivos, las estrategias y actividades implementadas, además de proporcionar datos a tener en cuenta para elaborar el plan del año siguiente. 
+          p El plan de mercado debe tener un cronograma de actividades según lo establecen los pasos del <em>marketing</em> operativo, en él, se define tiempo de inicio, finalización y responsables, de este modo, el mismo plan se convierte en la hoja de ruta para hacer la evaluación; algunos autores reconocen este proceso como auditoría de <em>marketing.</em> Esta auditoría permite hacer una evaluación amplia y sistemática de los objetivos, las estrategias y actividades implementadas, además de proporcionar datos a tener en cuenta para elaborar el plan del año siguiente. 
           p Por ello, se hace necesario definir los mecanismos de control, los cuales se clasifican en 3 tipos de controles básicos: 
 
         ul.lista-ul.mb-2(data-aos="fade-down")
@@ -331,7 +331,7 @@
     .row.mb-4(data-aos="fade-down-left")
       .col-12.col-md-9.col-lg-10
         p.mb-3 La manera en la que se debe evaluar y medir si la empresa está cumpliendo las metas y objetivos propuestos es a través de los KPI (indicadores de gestión o indicador de desempeño). Los KPI se convierten en los instrumentos de evaluación que darán paso a la toma de decisiones correctas respecto a la implementación de las estrategias. 
-        p Los KPI de marketing son necesarios para la empresa ya que permiten conocer si las estrategias diseñadas en el plan de mercado son las correctas, la adquisición de nuevos clientes y la interacción con los futuros clientes, estos indicadores están divididos en 4 categorías.
+        p Los KPI de <em>marketing</em> son necesarios para la empresa ya que permiten conocer si las estrategias diseñadas en el plan de mercado son las correctas, la adquisición de nuevos clientes y la interacción con los futuros clientes, estos indicadores están divididos en 4 categorías.
 
       .col-12.col-md-3.col-lg-2 
         figure
@@ -342,7 +342,7 @@
         ul.lista-ul.mb-2(data-aos="fade-down")
           li.mb-0
             i.fas.fa-check
-            | <strong>Indicadores por campaña:</strong> estos indicadores miden el comportamiento del público objetivo respecto a la campaña diseñada por la empresa, ejemplo: costo por lead o prospecto, este es un cliente potencial del cual se ha obtenido el contacto. 
+            | <strong>Indicadores por campaña:</strong> estos indicadores miden el comportamiento del público objetivo respecto a la campaña diseñada por la empresa, ejemplo: costo por <em>lead</em> o prospecto, este es un cliente potencial del cual se ha obtenido el contacto. 
           br
           li.mb-0
             i.fas.fa-check
@@ -350,7 +350,7 @@
           br
           li.mb-0
             i.fas.fa-check
-            | <strong>Indicadores de marketing digital:</strong> la tendencia actual es realizar inversión en estrategias de marketing digital con el fin de tener presencia en la web y poder atraer nuevos clientes por este canal de comunicación. Entre los indicadores más utilizados de esta categoría están: porcentaje de clientes influenciados por marketing, alcance de las redes sociales, entre otros. 
+            | <strong>Indicadores de <em>marketing</em> digital:</strong> la tendencia actual es realizar inversión en estrategias de <em>marketing</em> digital con el fin de tener presencia en la web y poder atraer nuevos clientes por este canal de comunicación. Entre los indicadores más utilizados de esta categoría están: porcentaje de clientes influenciados por <em>marketing,</em> alcance de las redes sociales, entre otros. 
           br
           li.mb-0
             i.fas.fa-check
@@ -361,7 +361,7 @@
 
     .col-xl-10.mx-auto
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 3
+        h5 Tabla 3.
         span <em>Indicadores de evaluación plan de mercado</em>
       img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-11.svg" data-aos="fade-left")
       figcaption Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020). 

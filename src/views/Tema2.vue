@@ -39,7 +39,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 1
+        h5 Figura 1.
         span <em>Herramienta SIM (Sistemas de Información)</em>
       img.d-md-block(src="@/assets/curso/temas/tema2/img-3.svg" data-aos="fade-left")
 
@@ -87,7 +87,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Figura 2
+        h5 Figura 2.
         span <em>Clasificación datos</em>
       img.d-md-block(src="@/assets/curso/temas/tema2/img-5.svg" data-aos="fade-left")
       figcaption Nota. Adaptado de “Entorno e información de mercados”. Sastre y Polo, (2014). 
@@ -111,7 +111,7 @@
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 1
+        h5 Tabla 1.
         span <em>Características de la información</em>
       img.d-md-block(src="@/assets/curso/temas/tema2/img-6.svg" data-aos="fade-left")
       figcaption Nota. Tomado de “Entorno e información de mercados”. Sastre y Polo. (2014). 
