@@ -128,21 +128,15 @@
             .p-4
               p Para hacer un ejercicio válido de levantamiento de información en fuentes primarias es necesario reconocer las herramientas que existen y deben ser usadas a partir del resultado que se desea obtener, entendiendo que estas serán orientadas a los actuales o futuros clientes. A continuación, se hace una relación de estas: 
 
-    .row.align-items-center.mb-2(data-aos="fade-right")
-      .col-md-6.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+      .col-12(data-aos="fade-right")
         ul.lista-ul.mb-2
           li.mb-0
             i.fas.fa-play(style="color:#25FFFF")
             | <strong>Entrevistas:</strong> es uno de los métodos más utilizados para la obtención de información, pues se trata de una conversación entre un entrevistador y entrevistado donde se formulan preguntas para obtener la información necesaria del tema definido con anterioridad. El tipo de información obtenida es subjetiva como, por ejemplo, la percepción del producto o servicio, las preferencias de los clientes o consumidor final.  
-
-      .col-md-6.mb-4.mb-md-0
-        p.p-2(style="background-color:#FFE8CE") Para profundizar en esta herramienta de obtención de información puede consultar el siguiente anexo.
-
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Anexo_1._Principales_características_y_tipos_de_entrevistas.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p Anexo 1. Principales características y tipos de entrevistas
+    
+    .cajon-b.color-primario.mt-3.mb-5
+      p Para profundizar en esta herramienta de obtención de información puede consultar el siguiente anexo.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12(data-aos="fade-right")
@@ -216,7 +210,7 @@
                 p.text-small En el siguiente enlace encuentra un video donde puede profundizar sobre las fuentes de información:
 
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=22Edu6E9ibw')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=vE77y1o8DWY')" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-link
 

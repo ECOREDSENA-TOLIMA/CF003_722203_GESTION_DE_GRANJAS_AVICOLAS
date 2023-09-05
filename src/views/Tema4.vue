@@ -37,7 +37,7 @@
 
     .col-xl-8.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 4
+        h5 Tabla 4.
         span <em>Informe histórico de ventas</em>
       img.d-md-block.mb-2(src="@/assets/curso/temas/tema4/img-2.svg" data-aos="fade-left")
 
@@ -47,7 +47,7 @@
 
     .col-xl-8.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 5
+        h5 Tabla 5.
         span <em>Informe de ejecución</em>
       img.d-md-block.mb-2(src="@/assets/curso/temas/tema4/img-3.svg" data-aos="fade-left")
 
