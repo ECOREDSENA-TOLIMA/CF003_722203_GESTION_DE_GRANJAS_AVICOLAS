@@ -17,7 +17,7 @@
     Separador 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 3.1 Cliente/ Consumidor 
+      h2#t_3_1 3.1 Cliente/ Consumidor 
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-md-4.col-lg-2.col-12.mb-3(data-aos="fade-right")
@@ -155,7 +155,7 @@
     Separador 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 3.2 Plan de mercado  
+      h2#t_3_2 3.2 Plan de mercado  
 
     .row
       .col-12.col-md-4.mb-3.mb-md-0

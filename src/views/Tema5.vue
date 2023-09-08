@@ -20,7 +20,7 @@
     Separador 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 5.1 Diseño del plan de mejora             
+      h2#t_5_1 5.1 Diseño del plan de mejora             
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0
@@ -68,7 +68,7 @@
     Separador 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 5.2  Acciones 
+      h2#t_5_2 5.2  Acciones 
 
     .row.mb-5
       .col-12.col-md-4.mb-3.mb-md-0
@@ -83,7 +83,7 @@
     Separador 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 5.3  Puntos críticos de control
+      h2#t_5_3 5.3  Puntos críticos de control
 
     .row.mb-5 
       .col-7

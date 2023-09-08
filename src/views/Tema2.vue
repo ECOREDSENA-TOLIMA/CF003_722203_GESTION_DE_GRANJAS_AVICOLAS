@@ -46,7 +46,7 @@
     Separador 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 2.1 Fuentes de Información
+      h2#t_2_1 2.1 Fuentes de Información
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
