@@ -11,18 +11,19 @@
       .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
         .cajon.color-acento-contenido.p-4.d-flex.flex-wrap(data-aos="fade-right")
           .col-md-11.ps-lg-4
-            p Toda decisión de mercado viene derivada del análisis de información y de estudios previos aplicados en este. Para dar inicio al estudio de mercado se debe comprender el concepto de entorno, el cual está basado en todo lo que rodea a las empresas independiente del sector económico; a este lo componen diferentes variables externas que no pueden ser controladas por la empresa, pero que entregan información necesaria e importante para proyectar las estrategias y actividades a desarrollar.
+            p Toda decisión de mercado viene derivada del análisis de información y de estudios previos aplicados en este. Para dar inicio al estudio de mercado se debe comprender el concepto de entorno, el cual está basado en todo lo que rodea a las empresas, independiente del sector económico; a este lo componen diferentes variables externas que no pueden ser controladas por la empresa, pero que entregan información necesaria e importante para proyectar las estrategias y actividades a desarrollar.
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-1.png" data-aos="fade-left" style="max-width: 400px")
 
     p.mb-5 Para comprender la manera en la que se debe manejar la información relacionada con el entorno de la empresa, a continuación, se describen las variables y la clasificación de este. Se debe tener en cuenta que cada variable que hace parte del entorno debe ser analizada de manera independiente y que se debe identificar la manera adecuada de abordarlas, ya que como se nombra anteriormente no son controlables por la empresa.
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.1 Análisis del entorno 
+    Separador
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.1 Análisis del entorno 
 
     p.mb-5 Las variables que componen el entorno, aunque no se pueden controlar, algunas tienen relación directa y cercana con las empresas, lo que permite que se pueda tener acceso a fuentes de información primaria; de allí la importancia de estudiar en detalle cada una de estas. El análisis del entorno puede clasificarse en 2 tipos:
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Macroentorno
+      h3 Macroentorno
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-md-4.col-12(data-aos="fade-left")
@@ -76,7 +77,7 @@
             img.mx-auto(src='@/assets/curso/temas/tema1/decorador-7.svg', style="max-width:100px", alt='Texto que describa la imagen')
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Microentorno
+      h3 Microentorno
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-md-4.col-12(data-aos="fade-left")
@@ -111,7 +112,7 @@
           figure
             img.mx-auto(src='@/assets/curso/temas/tema1/decorador-11.svg', style="max-width:100px", alt='Texto que describa la imagen')
 
-    p.mb-5 Es aquí donde entra en juego el Análisis PESTEL. A continuación, nos sumergiremos en esta poderosa herramienta, explorando los factores políticos, económicos, sociales, tecnológicos, ambientales y legales.
+    p.mb-5 Es aquí donde entra en juego el análisis PESTEL. A continuación, nos sumergiremos en esta poderosa herramienta, explorando los factores políticos, económicos, sociales, tecnológicos, ambientales y legales.
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b")
@@ -316,7 +317,7 @@
               img(src='@/assets/curso/temas/tema1/img-10.png', alt='Texto que describa la imagen')
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Diagnóstico 
+      h3 Diagnóstico 
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -325,7 +326,7 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 El diagnóstico es el elemento más importante para dar inicio a la formulación del plan de mercado, este elemento permite conocer la situación inicial de la empresa luego de realizar el análisis del entorno a partir de las variables identificadas en el macro y microentorno, de esta manera, se puede anticipar la empresa en la identificación de oportunidades y amenazas existentes. 
 
-    p.mb-5 El diagnostico involucra el análisis de las variables internas y externas donde deberá hacerse un levantamiento de información que, por ejemplo involucre los siguientes aspectos: antecedentes del sector económico al cual se pertenece, como es la distribución de los huevos, cuáles son las instituciones que regulan las empresas del sector avícola como ICA e INVIMA, qué decretos están vigentes, qué reglamenta el Ministerio de Agricultura y Desarrollo Rural, el comportamiento de la competencia, cómo se establece el precio del huevo, qué factores influyen en su distribución como el estado de las vías, situaciones de orden público, entre otras. 
+    p.mb-5 El diagnóstico involucra el análisis de las variables internas y externas donde deberá hacerse un levantamiento de información que, por ejemplo involucre los siguientes aspectos: antecedentes del sector económico al cual se pertenece, como es la distribución de los huevos, cuáles son las instituciones que regulan las empresas del sector avícola como ICA e INVIMA, qué decretos están vigentes, qué reglamenta el Ministerio de Agricultura y Desarrollo Rural, el comportamiento de la competencia, cómo se establece el precio del huevo, qué factores influyen en su distribución como el estado de las vías, situaciones de orden público, entre otras. 
 
     .col-xl-10.mx-auto.mb-5
       .tarjeta.color-primario.p-3.mb-5
@@ -382,7 +383,7 @@
                 img(src='@/assets/curso/temas/tema1/img-14.svg', alt='Texto que describa la imagen')
 
           h3.text-center De apoyo
-          p.text-center Se consolida como una herramienta para la toma de decisiones estratégicas, que confronten diversas hipótesis para observar el comportamiento de la demanda. Por ejemplo, consultar con los consumidores del producto su opinión respecto a un cambio de imagen o un cambio de precio. 
+          p.text-center Se consolida como una herramienta para la toma de decisiones estratégicas, que confronten diversas hipótesis para observar el comportamiento de la demanda. Por ejemplo, consultar con los consumidores del producto, su opinión respecto a un cambio de imagen o un cambio de precio. 
 
     .row.mt-2
       .col-md-5.col-lg-5.col-12

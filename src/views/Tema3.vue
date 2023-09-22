@@ -15,9 +15,8 @@
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema3/img-1.png" data-aos="fade-left" style="max-width: 400px")
 
     Separador 
-
-    .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_3_1 3.1 Cliente/ Consumidor 
+    #t_3_1.titulo-segundo.color-secundario(data-aos="fade-right")
+      h2 3.1 Cliente/ Consumidor 
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-md-4.col-lg-2.col-12.mb-3(data-aos="fade-right")
@@ -27,7 +26,7 @@
         p El cliente es cualquier persona natural o jurídica que compra un producto o recibe un servicio por parte de la empresa, lo que hace que las partes mantengan una relación comercial y que la empresa dirija sus esfuerzos a satisfacer sus necesidades al diseñar e implementar estrategias para lograr una compra habitual. 
     
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Comportamiento del consumidor  
+      h3 Comportamiento del consumidor  
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
@@ -41,7 +40,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 3.
         span <em>Pirámide de las necesidades Maslow</em>
-      img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-3.svg" data-aos="fade-left")
+      img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-3.svg" data-aos="fade-left" alt="En la figura 3 se muestra la pirámide de Maslow que describe las necesidades humanas jerárquicamente, desde las básicas como alimentación y seguridad, hasta las más elevadas como autorrealización y crecimiento personal.")
       figcaption Nota. Tomado de https://economipedia.com/definiciones/piramide-de-maslow.html
 
     p.mb-5 La pirámide de Maslow muestra las necesidades del ser humano por niveles siendo los 2 primeros las necesidades básicas y que por naturaleza deben ser cubiertas, cuando se pasa al 3 nivel (Necesidades Sociales), el mercadeo empieza a centrar sus esfuerzos en el diseño de estrategias para que el cliente sienta la necesidad de compra, de esta manera, la adquisición de bienes o servicios hará que se sienta satisfecho y se generan las necesidades de los 2 últimos niveles, generando un proceso cíclico donde las estrategias se vuelven el elemento fundamental para incitar al proceso de compra por parte de los consumidores.  
@@ -62,7 +61,7 @@
                   i.fas.fa-link
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Influencias del consumidor  
+      h3 Influencias del consumidor  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-md-7.mb-4.mb-md-0
@@ -81,7 +80,7 @@
           img(src='@/assets/curso/temas/tema3/img-4.png', alt='')
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Conducta de compra 
+      h3 Conducta de compra 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -90,23 +89,23 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Identificados en el apartado anterior, los factores que influencian el comportamiento de compra, se debe hacer referencia al proceso de la decisión final para pagar por el bien o servicio deseado. Para esto se hace necesario comprender que actualmente los clientes o consumidores compran más que un objeto o servicio, pues ahora la decisión se basa en la experiencia que se pueda generar, el valor agregado que entreguen las empresas del mercado y la manera en que se presta atención al cliente. Con el acceso a la tecnología e información, actualmente se suelen hacer comparativos para poder decidir a quién comprar y a quién no. 
 
-    p.mb-5 Lo primero que hace el cliente es identificar la necesidad que tiene, buscar información respecto a las empresas posibles de suplir la necesidad, comparar quien ofrece una experiencia significativa y diferente, y tomar la decisión de compra. Es importante resaltar que esta puede ser de manera inmediata o postergada según el interés del cliente. Para finalizar el proceso de compra se debe generar un acompañamiento por la empresa para conocer la percepción del cliente en cuanto al nivel de satisfacción: un cliente satisfecho generara un proceso de recompra y la llegada de más clientes, un cliente insatisfecho hará que se pierda su fidelización y la de algunos clientes más.
+    p.mb-5 Lo primero que hace el cliente es identificar la necesidad que tiene, buscar información respecto a las empresas posibles de suplir la necesidad, comparar quien ofrece una experiencia significativa y diferente, y tomar la decisión de compra. Es importante resaltar que esta puede ser de manera inmediata o postergada según el interés del cliente. Para finalizar el proceso de compra se debe generar un acompañamiento por la empresa para conocer la percepción del cliente en cuanto al nivel de satisfacción: un cliente satisfecho generará un proceso de recompra y la llegada de más clientes, un cliente insatisfecho hará que se pierda su fidelización y la de algunos clientes más.
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 4.
         span <em>Proceso decisión de compra </em>
-      img.d-md-block(src="@/assets/curso/temas/tema3/img-6.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema3/img-6.svg" data-aos="fade-left" alt="En la figura 4 se muestra el proceso decisión de compra, que se define así: Proceso decisión de compra, Percepción de la necesidad, Búsqueda de información, Análisis de alternativas, Decisión de compra: a quién y cuándo, Comportamiento posterior a la compra: Satisfecho e Insatisfecho.")
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Segmento de mercado
+      h3 Segmento de mercado
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-md-4.col-lg-2.col-12.mb-3(data-aos="fade-right")
         figure
           img(src="@/assets/curso/temas/tema3/decorador-2.svg", alt="")
       .col-md-8.col-lg-9.col-12(data-aos="fade-down")
-        p La segmentación de mercado es la división de este en grupos homogéneos respecto a algunos criterios como la edad, género, gustos, ubicación geográfica, entre otros con el fin de implementar posteriormente una investigación de mercado para conocer sus preferencias y gustos a la hora de tomar la decisión de compra para finalizar con el diseño de un plan de mercadeo. 
+        p La segmentación de mercado es la división de este en grupos homogéneos respecto a algunos criterios como la edad, género, gustos, ubicación geográfica, entre otros, con el fin de implementar posteriormente una investigación de mercado para conocer sus preferencias y gustos a la hora de tomar la decisión de compra para finalizar con el diseño de un plan de mercadeo. 
 
     .col-xl-10.mx-auto.mb-5
       .tarjeta.color-primario.p-3.mb-5
@@ -121,8 +120,8 @@
 
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(:href="('http://www.youtube.com/watch?v=rndPdop69X0')" target="_blank")
-                  span Ir al sitio web
-                  i.fas.fa-link
+                  span Ver video
+                  i.fas.fa-video
 
     p Aplicar la investigación al segmento de mercado definido por la empresa es fundamental para asegurarse de que las estrategias planificadas puedan satisfacer las necesidades de los clientes y consumidores finales. En la actualidad, es importante comprender que los clientes no solo buscan satisfacer sus necesidades con los atributos del producto o la calidad del servicio, sino que también anhelan vivir una experiencia, encontrar valor agregado e identificar los beneficios y ventajas que ofrecen las empresas en el sector.
     p.mb-5 Según Kotler y otros (2006), la implementación exitosa de la segmentación del mercado involucra un proceso compuesto por tres fases esenciales:
@@ -153,9 +152,8 @@
               p <strong>Posicionamiento del producto en el mercado:</strong> finalmente la empresa decide cuál es el posicionamiento adecuado para el producto del mercado objetivo elegido y diseña el plan de mercadeo con el que lo comercializará.  Si en el caso anteriormente expuesto se define vender a las tiendas y minimercados, en este punto se determina si se abordará con una estrategia publicitaria agresiva, con la contratación de impulsadores u ofreciendo muestras gratuitas; o, por el contrario, se buscará un posicionamiento más orgánico y lento que permita cubrir la demanda del producto con la capacidad de producción disponible. 
 
     Separador 
-
-    .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_3_2 3.2 Plan de mercado  
+    #t_3_2.titulo-segundo.color-secundario(data-aos="fade-right")
+      h2 3.2 Plan de mercado  
 
     .row
       .col-12.col-md-4.mb-3.mb-md-0
@@ -185,10 +183,10 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 5.
         span <em>Plan de mercadeo, objetivos e importancia.</em>
-      img.d-md-block(src="@/assets/curso/temas/tema3/img-8.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema3/img-8.svg" data-aos="fade-left" alt="En la figura 5 se muestra las características clave que deben tener los objetivos de un plan de mercadeo y resalta la importancia del mismo.")
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Estructura plan de mercado  
+      h3 Estructura plan de mercado  
 
     p.mb-5 Para que el plan de mercado pueda desarrollarse de manera correcta se considera la siguiente estructura, la cual está dividida en 3 grandes áreas, así será más fácil el cumplimiento de los objetivos: 
 
@@ -201,7 +199,7 @@
               ul.lista-ul.mb-2(data-aos="fade-down")
                 li.mb-0
                   i.fas.fa-check
-                  | <strong>Análisis interno y externo:</strong> se analizan las variables que influyen en el desarrollo de la actividad comercial.  
+                  | <strong>Análisis interno y externo:</strong> se analizan las variables que influyen en el desarrollo de la actividad comercial, como capacidad financiera (interno) o análisis de los consumidores (externo).  
                 br
                 li.mb-0
                   i.fas.fa-check
@@ -211,30 +209,45 @@
                   i.fas.fa-check
                   | <strong>FODA (Fortalezas, Oportunidades, Debilidades y Amenazas):</strong> la implementación de la matriz hace un ejercicio para poder identificar las <strong>fortalezas y debilidades</strong> de la empresa de manera interna, en este análisis se deben tener en cuenta variables que son controlables por la organización como la disponibilidad de recursos económicos, personal capacitado, calidad del producto o servicio, capacidad de endeudamiento o acceso a tecnología.  Así mismo, se identifican las <strong>oportunidades y amenazas</strong>   del mercado que no se pueden controlar, entre estas variables se encuentran las condiciones climáticas para el desarrollo de algún proceso, situación de orden público, impuestos, alza de precios de materia prima, estrategias de la competencia, entre otros. 
 
-    p.mb-5 Este primer paso del estudio de mercado es el más importante, ya que entrega información clara y objetiva de la situación actual de la empresa en el mercado respecto a la competencia, a la situación socioeconómica y demarca la intención de los objetivos a cumplir.
-
-    .row.justify-content-center.align-items-center
-      .col-md-11.col-12(data-aos="fade-down")
-        .tarjeta-avatar2-b.mb-5
-          .tarjeta2.tarjeta--custom2
-            .p-4
-              p <strong><em>Marketing</em> analítico:</strong> es esencial llevar a cabo la investigación y análisis de información relacionada con la empresa, el mercado y la competencia. Esta investigación se basa en grupos principales, que son el análisis interno y externo, el estudio de mercado y el análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas).
-              .tarjeta.color-primario.p-3
+              .tarjeta.color-primario.p-3.mt-4(data-aos="fade-down")
                 .row.justify-content-around.align-items-center
                   .col-3.col-sm-2.col-lg-1
                     img(src="@/assets/curso/temas/tema1/decorador-web.svg")
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0
-                        h3.mb-1 <em>Marketing</em> analítico y estratégico 
-                        p Para complementar sobre el <em>marketing</em> analítico y estratégico se le recomienda consultar el siguiente documento. 
-
+                        h3.mb-1 <em>Marketing</em> analítico 
+                        p Para complementar sobre el <em>marketing</em> analítico se le recomienda consultar el siguiente documento. 
                       .col-sm-auto
-                        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_ 2._Marketing_analitico_y_estratégico.pdf')" target="_blank")
+                        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Marketing_analitico.pdf')" target="_blank")
                           span Descargar
                           i.fas.fa-download
 
-    .row.justify-content-center.align-items-center.mb-5
+                    
+    .row.justify-content-center.align-items-center
+      .col-md-11.col-12(data-aos="fade-down")
+        .tarjeta-avatar2-b.mb-5
+          .tarjeta2.tarjeta--custom2
+            .p-4
+              p <strong><em>Marketing</em> estratégico:</strong> al abordar esta etapa del estudio de mercado, es crucial comprender que las estrategias no serán uniformes para todas las empresas. La formulación de estrategias está intrínsecamente ligada a la naturaleza de cada empresa y al objetivo específico que se pretende alcanzar.
+              .tarjeta.color-primario.p-3(data-aos="fade-down")
+                .row.justify-content-around.align-items-center
+                  .col-3.col-sm-2.col-lg-1
+                    img(src="@/assets/curso/temas/tema1/decorador-web.svg")
+                  .col
+                    .row.justify-content-between.align-items-center
+                      .col.mb-3.mb-sm-0
+                        h3.mb-1 <em>Marketing</em> estratégico 
+                        p Para complementar sobre el <em>marketing</em> estratégico se le recomienda consultar el siguiente documento. 
+                      .col-sm-auto
+                        a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_2_Marketing_estrategico.pdf')" target="_blank")
+                          span Descargar
+                          i.fas.fa-download
+
+    p.mb-5 Este primer paso del estudio de mercado es el más importante, ya que entrega información clara y objetiva de la situación actual de la empresa en el mercado respecto a la competencia, a la situación socioeconómica y demarca la intención de los objetivos a cumplir.
+
+
+    .row.justify-content-center.align-items-center.mb-4
       .col-md-11.col-12(data-aos="fade-down")
         .tarjeta-avatar3-b.mb-5
           .tarjeta3.tarjeta--custom3
@@ -249,7 +262,7 @@
                 br
                 li.mb-0
                   i.fas.fa-check
-                  | <strong>Comunicación:</strong> la empresa define los medios por los cuales comunicará la estrategia diseñada, debe tener claro según la estrategia diseñada cuál será la forma de llegar a sus clientes, estas pueden ser el mercadeo tradicional como pautas, promociones, patrocinios o mercadeo digital como <em>marketing web,</em> social media y mobile.
+                  | <strong>Comunicación:</strong> la empresa define los medios por los cuales comunicará la estrategia diseñada, debe tener claro según la estrategia diseñada cuál será la forma de llegar a sus clientes, estas pueden ser el mercadeo tradicional como pautas, promociones, patrocinios o mercadeo digital como <em>marketing web, social media y mobile</em>.
                 br
                 li.mb-5
                   i.fas.fa-check
@@ -265,6 +278,8 @@
                 li.mb-0
                   i.fas.fa-check
                   | <strong>Presupuesto:</strong> todo lo que se planee en el cronograma de actividades deberá tener asignado un presupuesto, esto debe quedar establecido desde la planeación, de tal manera que si no se cuenta con los recursos la empresa pueda buscar fuentes de financiación antes de la puesta en marcha, si esto no se logra los procesos quedarán inconclusos y no se cumplirán los objetivos. La dirección y área de mercadeo deben ser muy cuidadosos a definir las actividades, las cuales son la recopilación de todo el trabajo hecho del <em>marketing</em> estratégico hacia atrás, pues cualquier detalle que quede por fuera, es una representación monetaria que puede tener un impacto muy grande y negativo en la organización.  
+
+    p.mb-4 #[b Paso a paso de un #[em marketing] operativo]
 
     TabsB.color-primario.mb-5
       .py-4.py-md-5.px-5(titulo="<em>Marketing</em> operativo ")
@@ -297,7 +312,7 @@
             p Al establecer un presupuesto claro y realista, se garantiza que la estrategia de <em>marketing</em> se implemente de manera adecuada, y permite tomar decisiones informadas en cuanto a la priorización de actividades y el enfoque de recursos para obtener el máximo rendimiento de las inversiones de <em>marketing.</em> 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Evaluación y seguimiento
+      h3 Evaluación y seguimiento
 
     .row.justify-content-around.align-items-center.mb-5
       .col-5  
@@ -326,12 +341,12 @@
             | <strong>Plan de contingencia:</strong> dentro de la evaluación y seguimiento como parte del control se sugiere diseñar también un plan de contingencia, también conocido como plan de emergencia. El diseño de este plan permitirá reaccionar de forma inmediata ante imprevistos que se presenten en la ejecución del plan de mercado y que pueden afectar en gran medida a la empresa de manera negativa. 
 
     .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_1_1 Indicadores de gestión  
+      h3 Indicadores de gestión  
 
     .row.mb-4(data-aos="fade-down-left")
       .col-12.col-md-9.col-lg-10
         p.mb-3 La manera en la que se debe evaluar y medir si la empresa está cumpliendo las metas y objetivos propuestos es a través de los KPI (indicadores de gestión o indicador de desempeño). Los KPI se convierten en los instrumentos de evaluación que darán paso a la toma de decisiones correctas respecto a la implementación de las estrategias. 
-        p Los KPI de <em>marketing</em> son necesarios para la empresa ya que permiten conocer si las estrategias diseñadas en el plan de mercado son las correctas, la adquisición de nuevos clientes y la interacción con los futuros clientes, estos indicadores están divididos en 4 categorías.
+        p Los KPI de <em>marketing</em> son necesarios para la empresa, ya que permiten conocer si las estrategias diseñadas en el plan de mercado son las correctas, la adquisición de nuevos clientes y la interacción con los futuros clientes, estos indicadores están divididos en 4 categorías.
 
       .col-12.col-md-3.col-lg-2 
         figure

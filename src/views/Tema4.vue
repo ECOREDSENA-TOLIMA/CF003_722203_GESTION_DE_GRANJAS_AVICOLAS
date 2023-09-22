@@ -60,7 +60,7 @@
         p Para el análisis es importante tener en cuenta factores adicionales como políticas económicas o variaciones de precio producto de la inflación. Para ello, pueden contrastarse las comparativas de ingresos con las de unidades vendidas, si el incremento obedece mayoritariamente al incremento del valor de los productos, propio de todos los años, es evidente que las estrategias no han resultado fructíferas. Por tal razón, cada tabla debe ir acompañada de un contexto que le otorgue al analista todos los elementos para hacerse un juicio acertado. 
     
     .cajon-b.color-acento-contenido.p-3
-      p.mb-0 Como se recomendó previamente, estas variaciones según las expuestas en la tabla 5, es necesario compararlas con las inversiones efectuadas para llevar a cabo las estrategias. Por ejemplo, si para alcanzar esos resultados se invirtieron $ 2.500 en contrataciones y campañas publicitarias, las estrategias no funcionaron, puesto que el beneficio generado fue de $ 2.100. lo que se traduce en una pérdida neta de $ 400. 
+      p.mb-0 Como se recomendó previamente, estas variaciones según las expuestas en la tabla 5, es necesario compararlas con las inversiones efectuadas para llevar a cabo las estrategias. Por ejemplo, si para alcanzar esos resultados se invirtieron $ 2.500 en contrataciones y campañas publicitarias, las estrategias no funcionaron, puesto que el beneficio generado fue de $ 2.100, lo que se traduce en una pérdida neta de $ 400. 
         br
         br 
         | A partir de estas observaciones se plantean las acciones de mejora para reformular el plan de mercado e identificar aquellas medidas que sí generen impactos positivos. 

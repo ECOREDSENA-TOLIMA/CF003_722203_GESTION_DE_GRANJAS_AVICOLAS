@@ -18,9 +18,8 @@
           | Dando continuidad a los resultados planteados a modo de ejemplo en el informe comparativo de ventas de la sección anterior, el nulo rendimiento sobre la inversión evidenció que las estrategias planteadas no generaron los resultados esperados. Esta conclusión se constituye como una causal para ejecutar un plan de mejora que cambie el panorama en la implementación de futuros planes de mercado. 
 
     Separador 
-
-    .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_5_1 5.1 Diseño del plan de mejora             
+    #t_5_1.titulo-segundo.color-secundario(data-aos="fade-right")
+      h2 5.1 Diseño del plan de mejora             
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0
@@ -66,9 +65,8 @@
               p Posterior al diseño de la matriz, se implementa con el equipo de trabajo lo planeado en ella, esta información hace parte del siguiente plan de mercadeo, entendiendo que estas estrategias ajustadas serán el punto de partida para el nuevo año, esto no quiere decir que solo se enfocarán los esfuerzos en cumplir con el plan de mejora, pero sí que estas deben ser priorizadas para nivelar los objetivos que están incompletos, de este modo,  se espera que plan de mejora subsane los retrasos presentados y el nuevo plan se cumpla según lo planeado. 
 
     Separador 
-
-    .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_5_2 5.2  Acciones 
+    #t_5_2.titulo-segundo.color-secundario(data-aos="fade-right")
+      h2 5.2 Acciones 
 
     .row.mb-5
       .col-12.col-md-4.mb-3.mb-md-0
@@ -81,9 +79,8 @@
     LineaTiempoB.color-primario.mt-5.mb-5(:datos="datosLineaTiempoB")(data-aos="fade-left").BGIMG03
 
     Separador 
-
-    .titulo-segundo.color-secundario(data-aos="fade-right")
-      h2#t_5_3 5.3  Puntos críticos de control
+    #t_5_3.titulo-segundo.color-secundario(data-aos="fade-right")
+      h2 5.3 Puntos críticos de control
 
     .row.mb-5 
       .col-7
