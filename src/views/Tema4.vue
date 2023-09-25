@@ -35,21 +35,106 @@
        
     p.mb-5 Como se mencionó previamente, la evolución de las ventas se constituye como el factor más importante a la hora de medir la efectividad de las estrategias aplicadas. El análisis comparativo dota de contexto la evolución de las ventas, al enfrentarla a los resultados previos a la ejecución de las medidas propuestas. El diseño de un informe comparativo para este propósito puede tomar la siguiente forma:
 
-    .col-xl-8.mx-auto.mb-5
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 4.
-        span <em>Informe histórico de ventas</em>
-      img.d-md-block.mb-2(src="@/assets/curso/temas/tema4/img-2.svg" data-aos="fade-left")
+    //- .col-xl-8.mx-auto.mb-5
+    //-   .titulo-sexto.color-primario(data-aos="fade-right")
+    //-     h5 Tabla 4.
+    //-     span <em>Informe histórico de ventas</em>
+    //-   img.d-md-block.mb-2(src="@/assets/curso/temas/tema4/img-2.svg" data-aos="fade-left")
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-11(data-aos="fade-right")
+        .titulo-sexto.color-primario.mb-1
+          p.titulo.pb-0.mb-0 #[b Tabla 4.] #[i Informe histórico de ventas] 
+      .col-12.col-lg-11(data-aos="fade-right")
+        .tabla-b.color-acento-contenido
+          table(style="min-width:auto")
+            thead
+              tr.cabecera-a.text-center
+                th(colspan="5") Informe histórico de ventas
+              tr.text-center
+                th
+                th Año 1
+                th Año 2
+                th(colspan="2") Variación
+            tbody.text-center
+              tr.text-center
+                th
+                th
+                th
+                th #[b $]
+                th #[b %]
+              tr.text-center
+                th Producto A
+                td.p-2 15.000
+                td.p-2 13.000
+                td.p-2 2000
+                td.p-2 15,4 %
+              tr.text-center
+                th Producto B
+                td.p-2 2.500
+                td.p-2 2.200
+                td.p-2 300
+                td.p-2 13,6 %
+              tr.text-center
+                th Producto C
+                td.p-2 3.000
+                td.p-2 3.200
+                td.p-2 -200
+                td.p-2 -6,3 % 
+              tr.text-center
+                th Total
+                td.p-2 20.500
+                td.p-2 18.400
+                td.p-2 2.100
+                td.p-2 11,4 % 
+
 
     p Las variaciones negativas implican una disminución en las ventas, mientras que las positivas un crecimiento. La comparativa puede ampliarse tanto como los analistas lo consideren necesario. Puede revisarse la evolución histórica abarcando más años, o segmentar las comparativas por regiones o centros de distribución. Es por ello, que el informe se plantee a la medida de las necesidades, enfocado a funcionarios en específico para una retroalimentación posterior, o a nivel global para la toma de decisiones transversales.
     .cajon-b.color-acento-botones.p-3.mb-5
       p.mb-0 Si dentro de las metas del plan de mercado se establecieron unos valores estimados a alcanzar, la tabla podría complementarse con indicadores de cumplimiento así: 
 
-    .col-xl-8.mx-auto.mb-5
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 5.
-        span <em>Informe de ejecución</em>
-      img.d-md-block.mb-2(src="@/assets/curso/temas/tema4/img-3.svg" data-aos="fade-left")
+    //- .col-xl-8.mx-auto.mb-5
+    //-   .titulo-sexto.color-primario(data-aos="fade-right")
+    //-     h5 Tabla 5.
+    //-     span <em>Informe de ejecución</em>
+    //-   img.d-md-block.mb-2(src="@/assets/curso/temas/tema4/img-3.svg" data-aos="fade-left")
+      
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-11(data-aos="fade-right")
+        .titulo-sexto.color-primario.mb-1
+          p.titulo.pb-0.mb-0 #[b Tabla 5.] #[i Informe de ejecución] 
+      .col-12.col-lg-11(data-aos="fade-right")
+        .tabla-b.color-acento-contenido
+          table(style="min-width:auto")
+            thead.text-center
+              tr.cabecera-a
+                th(colspan="4") Informe de ejecución
+              tr
+                th
+                th Incremento obtenido
+                th Incremento proyectado
+                th Cumplimiento 
+            tbody.text-center
+              tr
+                th Producto A
+                td.p-2 2.000
+                td.p-2 2.000
+                td.p-2 100 % 
+              tr
+                th Producto B
+                td.p-2 300
+                td.p-2 800
+                td.p-2 38 %
+              tr
+                th Producto C
+                td.p-2 -200
+                td.p-2 1.000
+                td.p-2 -20 %
+              tr
+                th Total
+                td.p-2 2.100
+                td.p-2 3.800
+                td.p-2 55 %
 
     .row.mb-5
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")

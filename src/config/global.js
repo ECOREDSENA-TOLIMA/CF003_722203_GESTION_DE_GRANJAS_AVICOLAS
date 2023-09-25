@@ -140,9 +140,9 @@ export default {
   },
   complementario: [
     {
-      tema: 'Plan de marketing: diseño, implementación y control',
+      tema: 'Plan de <em>marketing</em>: diseño, implementación y control',
       referencia:
-        'Hoyos Ballesteros, R. (2018). Plan de marketing: con enfoque en gerencia de mercadeo. Ecoe Ediciones.',
+        'Hoyos Ballesteros, R. (2018). Plan de <em>marketing</em>: con enfoque en gerencia de mercadeo. Ecoe Ediciones.',
       tipo: 'Libro',
       link:
         'https://gc.scalahed.com/recursos/files/r161r/w24257w/LibroPlandeMarketing-1-92.pdf',
@@ -150,7 +150,7 @@ export default {
     {
       tema: 'Interpretación indicadores de gestión',
       referencia:
-        'de Recursos Educativos Digitales SENA, E. [@EcosistemaSENAVirtual]. (2022, mayo 20). Interpretación de indicadores de gestión (KPI). YouTube.',
+        'Recursos Educativos Digitales SENA, E. [@EcosistemaSENAVirtual]. (2022, mayo 20). Interpretación de indicadores de gestión (KPI). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=nCUYv5oPwJY',
     },
@@ -159,7 +159,7 @@ export default {
     {
       termino: 'Análisis FODA',
       significado:
-        'es el análisis de cuatro variables (oportunidades, amenazas, fortalezas y debilidades. Permite analizar las características de la empresa en relación con el medio que la envuelve, compensando las oportunidades con las amenazas y las fortalezas con las debilidades.',
+        'es el análisis de cuatro variables (oportunidades, amenazas, fortalezas y debilidades). Permite analizar las características de la empresa en relación con el medio que la envuelve, compensando las oportunidades con las amenazas y las fortalezas con las debilidades.',
     },
     {
       termino: 'Consumidor',
@@ -199,19 +199,19 @@ export default {
     },
     {
       referencia:
-        'Hoyos Ballesteros, R. (2018). Plan de marketing : con enfoque en gerencia de mercadeo. Ecoe Ediciones.',
+        'Hoyos Ballesteros, R. (2018). Plan de <em>marketing</em>: con enfoque en gerencia de mercadeo. Ecoe Ediciones.',
       link:
         'https://gc.scalahed.com/recursos/files/r161r/w24257w/LibroPlandeMarketing-1-92.pdf',
     },
     {
       referencia:
-        'Marketing estratégico - Alpha CLOUD. (s/f). Alphaeditorialcloud.com. Recuperado el 27 de julio de 2023, de',
+        '<em>Marketing</em> estratégico - Alpha CLOUD. (s/f). Alphaeditorialcloud.com. Recuperado el 27 de julio de 2023, de',
       link:
         'https://www.alphaeditorialcloud.com/library/publication/marketing-estrategico-desde-el-paradigma-esencial',
     },
     {
       referencia:
-        'Sánchez Herrera, J. Merino Sanz, M. J. & Santesmases Mestre, M. (2013). Fundamentos de marketing. Difusora Larousse - Ediciones Pirámide.',
+        'Sánchez Herrera, J. Merino Sanz, M. J. & Santesmases Mestre, M. (2013). Fundamentos de mercadotecnia. Difusora Larousse - Ediciones Pirámide.',
       link: 'https://www.academia.edu/40557434/Fundamentos_de_MERCADOTECNIA',
     },
     {

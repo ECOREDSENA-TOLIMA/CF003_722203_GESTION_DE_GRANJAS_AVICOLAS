@@ -268,12 +268,40 @@
                   i.fas.fa-check
                   | <strong>Puesta en marcha:</strong> se debe generar un cronograma de actividades según cada uno de los objetivos, el cronograma debe ser anual y deben tener fecha de inicio, de finalización y responsables, así mismo, es indispensable definir cada una de las estrategias planteadas, estas deben ser claras, medibles y relacionarse con cada objetivo a cumplir. Un ejemplo de la manera de cómo organizar el cronograma se muestra a continuación:
               
-              .titulo-sexto.color-primario(data-aos="fade-right")
-                h5 Tabla 2.
-                span <em>Diseño cronograma de actividades</em>
-              img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-9.svg" data-aos="fade-left")
-              figcaption.mb-5 Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020).
+              //- .titulo-sexto.color-primario(data-aos="fade-right")
+              //-   h5 Tabla 2.
+              //-   span <em>Diseño cronograma de actividades</em>
+              //- img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-9.svg" data-aos="fade-left")
+              //- figcaption.mb-5 Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020).
               
+              .row.justify-content-center.align-items-center.mb-5
+                .col-12(data-aos="fade-right")
+                  .titulo-sexto.color-primario.mb-1
+                    p.titulo.pb-0.mb-0 #[b Tabla 2.] #[i Diseño cronograma de actividades] 
+                .col-12(data-aos="fade-right")
+                  .tabla-b.color-acento-contenido
+                    table(style="min-width:auto")
+                      caption Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020).
+                      thead
+                        tr.cabecera-a.text-center
+                          th Objetivo de mercado 
+                          th Estrategia
+                          th Acción a realizar
+                          th Responsable
+                          th Tiempo de ejecución
+                          th Fecha de inicio
+                          th Fecha de finalización
+                      tbody
+                        tr
+                          th.text-center.p-2 Incrementar las ventas del canal de distribución en la regional occidente.
+                          td.p-2 Desarrollo de mercados.
+                          td.p-2 Promocionar la marca a través de Participación en eventos agrícolas a nivel regional y nacional.
+                          td.p-2 Mercadeo (se pueden definir por área, cargo o nombre propio).
+                          td.p-2 3 meses.
+                          td.p-2 15 de marzo.
+                          td.p-2 15 de junio. 
+
+
               ul.lista-ul.mb-2(data-aos="fade-down")
                 li.mb-0
                   i.fas.fa-check
@@ -374,12 +402,40 @@
     .cajon-b.color-acento-botones.p-3.mb-5
       p.mb-0 A continuación, se muestra un ejemplo de 2 indicadores de un plan de mercado de granjas avícolas: 
 
-    .col-xl-10.mx-auto
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 3.
-        span <em>Indicadores de evaluación plan de mercado</em>
-      img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-11.svg" data-aos="fade-left")
-      figcaption Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020). 
+    //- .col-xl-10.mx-auto
+    //-   .titulo-sexto.color-primario(data-aos="fade-right")
+    //-     h5 Tabla 3.
+    //-     span <em>Indicadores de evaluación plan de mercado</em>
+    //-   img.d-md-block.mb-2(src="@/assets/curso/temas/tema3/img-11.svg" data-aos="fade-left")
+    //-   figcaption Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020). 
+      
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-11(data-aos="fade-right")
+        .titulo-sexto.color-primario.mb-1
+          p.titulo.pb-0.mb-0 #[b Tabla 3.] #[i Indicadores de evaluación plan de mercado] 
+      .col-12.col-lg-11(data-aos="fade-right")
+        .tabla-b.color-acento-contenido
+          table(style="min-width:auto")
+            caption Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020).
+            thead
+              tr.cabecera-a.text-center
+                th Indicador 
+                th Descripción
+                th Ecuación 
+                th Grado de cumplimiento del objetivo
+            tbody
+              tr
+                th.text-center.p-2 Asistencia a eventos agrícolas 
+                td.p-2 Conocer el porcentaje de la población del sector que pertenece a la base de datos de clientes.
+                td.p-2 Clientes potenciales que asistieron al evento / total de personas asistentes al evento. 
+                td.p-2 30 % de cumplimiento esperado.
+              tr
+                th.text-center.p-2 Cobertura de mercado
+                td.p-2 Conocer cuál es el incremento porcentual de clientes nuevos en las zonas del Putumayo y del Choco, partiendo del censo de distribuidoras agropecuarias de cada zona, evidenciando la gestión del equipo comercial. 
+                td.p-2 
+                  p.mb-0 # clientes vinculados al mes por cada zona /   
+                  p # de clientes censados por cada zona. 
+                td.p-2 50 % de cobertura al final del año.
 
 
 
