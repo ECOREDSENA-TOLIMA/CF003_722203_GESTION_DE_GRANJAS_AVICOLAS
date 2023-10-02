@@ -141,7 +141,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img-4.png', alt='Texto que describa la imagen')
       .col-12.col-md-7.p-4(style="background-color: #FFEEB5")(data-aos="fade-left")
-        p Para determinar el nivel de cumplimiento debe dividirse el incremento obtenido sobre el proyectado. Cualquier cifra que se acerque o supere el 100% puede considerarse positiva. En el caso del producto A, se lograron las metas propuestas, en el caso del producto B la efectividad no alcanzó ni la mitad de la esperada, y en el caso del producto C, las estrategias no tuvieron ningún efecto, o incluso, tuvieron uno negativo.
+        p Para determinar el nivel de cumplimiento debe dividirse el incremento obtenido sobre el proyectado. Cualquier cifra que se acerque o supere el 100 % puede considerarse positiva. En el caso del producto A, se lograron las metas propuestas, en el caso del producto B la efectividad no alcanzó ni la mitad de la esperada, y en el caso del producto C, las estrategias no tuvieron ningún efecto, o incluso, tuvieron uno negativo.
         p Para el análisis es importante tener en cuenta factores adicionales como políticas económicas o variaciones de precio producto de la inflación. Para ello, pueden contrastarse las comparativas de ingresos con las de unidades vendidas, si el incremento obedece mayoritariamente al incremento del valor de los productos, propio de todos los años, es evidente que las estrategias no han resultado fructíferas. Por tal razón, cada tabla debe ir acompañada de un contexto que le otorgue al analista todos los elementos para hacerse un juicio acertado. 
     
     .cajon-b.color-acento-contenido.p-3

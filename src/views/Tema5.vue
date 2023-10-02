@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El plan de mejora se aplica posterior a la evaluación a las diferentes estrategias del plan de mercado. Su objetivo es corregir los errores identificados en el control concurrente y en el de retroalimentación con el fin de que la formulación del plan para el nuevo año no incurra de nuevo en estos errores y garantice el cumplimiento del 100% de los objetivos trazados en la planeación y diseño del nuevo plan de mercado. 
+        p.mb-0 El plan de mejora se aplica posterior a la evaluación a las diferentes estrategias del plan de mercado. Su objetivo es corregir los errores identificados en el control concurrente y en el de retroalimentación con el fin de que la formulación del plan para el nuevo año no incurra de nuevo en estos errores y garantice el cumplimiento del 100 % de los objetivos trazados en la planeación y diseño del nuevo plan de mercado. 
           br
           br
           | Dando continuidad a los resultados planteados a modo de ejemplo en el informe comparativo de ventas de la sección anterior, el nulo rendimiento sobre la inversión evidenció que las estrategias planteadas no generaron los resultados esperados. Esta conclusión se constituye como una causal para ejecutar un plan de mejora que cambie el panorama en la implementación de futuros planes de mercado. 
@@ -33,28 +33,28 @@
       PasosB.color-acento-contenido
 
         .row(titulo="Equipo de trabajo")
-          .col-md-12.mb-4.mb-md-0
+          .col-md-10.col-10.mb-4.mb-md-0
             p Para conformar el equipo se debe evaluar quiénes son los profesionales o colaboradores que cumplen con el perfil para surtir la etapa de revisión, se recomienda que el equipo de trabajo esté compuesto por un líder de área y colaboradores de esta. 
 
         .row(titulo="Revisión")
-          .col-md-12.mb-4.mb-md-0
+          .col-md-10.col-10.mb-4.mb-md-0
             p Es relevante revisar el alcance de las estrategias en el plan implementado, el equipo de trabajo realiza una lluvia de ideas o utiliza alguna herramienta de preferencia con el fin de revisar las posibles causas que generaron el incumplimiento de los objetivos trazados al inicio: las estrategias revisadas pueden ser modificadas o rediseñadas.
 
         .row(titulo="Propuesta")
-          .col-md-12.mb-4.mb-md-0
+          .col-md-10.col-10.mb-4.mb-md-0
             p Es un documento escrito donde se hace una relación a las causas que generaron el no cumplimiento de los objetivos, el diseño de nuevas estrategias de ser necesario y la matriz de actividades, responsables y fechas de entrega.  
 
         .row(titulo="Matriz")
-          .col-md-12.mb-4.mb-md-0
+          .col-md-10.col-10.mb-4.mb-md-0
             p Es la hoja de ruta para desarrollar el plan de mejora, de esta manera, es importante relacionar los objetivos de mercado y las estrategias para alcanzarlo. Se debe tener en cuenta que no es necesario modificar todas las estrategias, solo aquellas en las que el equipo encuentre errores a corregir o requieran ser rediseñadas.
 
-    p.mb-5 A continuación, se muestra un esquema del diseño de la matriz, esta nos muestra inicialmente el planteamiento de los objetivos, si un objetivo tuvo porcentaje de cumplimiento del 100% no se requiere relacionar en esta, posteriormente se hace referencia a la estrategia de la cual la revisión determina sí se debe modificar o no en ese momento, lo único a realizar es marcar si tuvo cambios o no, en caso de presentar algún cambio se menciona la nueva estrategia y las actividades a desarrollar para cumplir el objetivo, es importante conocer que las estrategias y actividades a ejecutar pueden variar de 1 a 3 por cada objetivo, esto lo decide el equipo de trabajo y no es regla cumplir con el máximo de estas, para finalizar se relaciona el responsable, las fechas de inicio y finalización y el porcentaje de cumplimiento respecto al punto de partida luego de la evaluación. 
+    p.mb-5 A continuación, se muestra un esquema del diseño de la matriz, esta nos muestra inicialmente el planteamiento de los objetivos, si un objetivo tuvo porcentaje de cumplimiento del 100 % no se requiere relacionar en esta, posteriormente se hace referencia a la estrategia de la cual la revisión determina sí se debe modificar o no en ese momento, lo único a realizar es marcar si tuvo cambios o no, en caso de presentar algún cambio se menciona la nueva estrategia y las actividades a desarrollar para cumplir el objetivo, es importante conocer que las estrategias y actividades a ejecutar pueden variar de 1 a 3 por cada objetivo, esto lo decide el equipo de trabajo y no es regla cumplir con el máximo de estas, para finalizar se relaciona el responsable, las fechas de inicio y finalización y el porcentaje de cumplimiento respecto al punto de partida luego de la evaluación. 
 
     .col-xl-12.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Tabla 6
         span <em>Matriz plan de mejora</em>
-      img.d-md-block.mb-2(src="@/assets/curso/temas/tema5/img-3.svg" data-aos="fade-left")
+      img.d-md-block.mb-2(src="@/assets/curso/temas/tema5/img-3.svg" data-aos="fade-left" alt="En la tabla 6 se muestra un esquema del diseño de la matriz de mejora, nos indica inicialmente el planteamiento de los objetivos, si un objetivo tuvo porcentaje de cumplimiento del 100 % no se requiere relacionar en esta, posteriormente se hace referencia a la estrategia de la cual la revisión determina sí se debe modificar o no en ese momento.")
       figcaption Nota. Tomado de “Propuesta plan de mercadeo para una empresa agro avícola”. Hoyos y Henao, (2020).
 
     .col-xl-10.mx-auto
